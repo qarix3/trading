@@ -8,9 +8,9 @@ Trading related mathematical finances
  - Double KnockOut PDE Pricer
  - PDEPricer
 
-☐ Geske
-☐ Liquidity
-☐ Binomial
+☐ Geske  
+☐ Liquidity  
+☐ Binomial  
 ### References
 * [https://github.com/KaihuaHuang/Derivative-Pricing-Tool](https://github.com/KaihuaHuang/Derivative-Pricing-Tool)
 * [https://github.com/KaihuaHuang/VaR](https://github.com/KaihuaHuang/VaR)
